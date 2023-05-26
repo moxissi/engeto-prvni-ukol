@@ -1,0 +1,50 @@
+#photo{
+    height: 140px;
+    width: 160px;
+}
+
+#osobni-informace{
+    text-align: center;
+}
+
+.kontakt{
+    font-style: italic;
+}
+
+table, th, tr, td{
+    border: 1px solid slategray;
+    border-collapse: collapse;
+    padding: 5px 5px;
+}
+
+#bez-ramu{
+    border: 0px;
+}
+
+h1{
+    font-size: 45px;
+}
+
+th{
+    background-color: silver;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
+
+a:visited{
+    color: dimgrey;
+}
+
+body{
+    padding: 0 3%;
+}
+
+p{
+    font-size: 16px;
+}
